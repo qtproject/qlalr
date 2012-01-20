@@ -1,0 +1,7 @@
+Sanity-Review+1: Qt Sanity Bot <qt_sanity_bot@ovi.com>
+Code-Review+2: Rohan McGovern <rohan.mcgovern@nokia.com>
+Submitted-by: Jason McDonald <jason.mcdonald@nokia.com>
+Submitted-at: Fri, 20 Jan 2012 07:39:40 +0100
+Reviewed-on: http://codereview.qt-project.org/13732
+Project: qt/qlalr
+Branch: refs/heads/master
