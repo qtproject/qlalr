@@ -1,22 +1,12 @@
-
 TEMPLATE = app
 QT = core
-CONFIG += console
 TARGET = qlalr
 mac:CONFIG -= app_bundle
+CONFIG += console
 
-SOURCES += compress.cpp \
-    cppgenerator.cpp \
-    dotgraph.cpp \
-    lalr.cpp \
-    main.cpp \
-    parsetable.cpp \
-    recognizer.cpp \
-    grammar.cpp
+# Input
+HEADERS += qlalr.h qlalr_lexer.h compress.h cppgenerator.h
+SOURCES += qlalr_parser.cpp qlalr.cpp compress.cpp cppgenerator.cpp
 
-HEADERS += compress.h \
-    cppgenerator.h \
-    dotgraph.h \
-    lalr.h \
-    parsetable.h \
-    grammar_p.h
+OTHER_FILES = qlalr.qlalr qlalr_lexer.l
+
