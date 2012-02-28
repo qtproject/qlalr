@@ -1,0 +1,7 @@
+Code-Review+2: Erik Verbruggen <erik.verbruggen@nokia.com>
+Sanity-Review+1: Qt Sanity Bot <qt_sanity_bot@ovi.com>
+Submitted-by: Roberto Raggi <roberto.raggi@nokia.com>
+Submitted-at: Tue, 28 Feb 2012 13:02:54 +0100
+Reviewed-on: http://codereview.qt-project.org/14595
+Project: qt/qlalr
+Branch: refs/heads/qlalr2
