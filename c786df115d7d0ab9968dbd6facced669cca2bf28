@@ -1,0 +1,7 @@
+Code-Review+2: Roberto Raggi <roberto.raggi@nokia.com>
+Sanity-Review+1: Qt Sanity Bot <qt_sanity_bot@ovi.com>
+Submitted-by: Casper van Donderen <casper.vandonderen@nokia.com>
+Submitted-at: Sun, 04 Mar 2012 10:30:09 +0100
+Reviewed-on: http://codereview.qt-project.org/18401
+Project: qt/qlalr
+Branch: refs/heads/master
