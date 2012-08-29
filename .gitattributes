@@ -1,1 +1,3 @@
 .tag ident
+.gitignore      export-ignore
+.gitattributes  export-ignore
